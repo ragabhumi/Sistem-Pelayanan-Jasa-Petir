@@ -1,0 +1,5999 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9950650787, 
+          3.79588718611
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9950650787, 
+        "epoch_ms": 1541852486000, 
+        "time": "2018-11-10 12:21:26", 
+        "latitude": 3.79588718611, 
+        "type": 1, 
+        "id": 5685
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.0594030221, 
+          3.51214931943
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.0594030221, 
+        "epoch_ms": 1541852662000, 
+        "time": "2018-11-10 12:24:22", 
+        "latitude": 3.51214931943, 
+        "type": 1, 
+        "id": 5700
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6236099466, 
+          3.61769326776
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6236099466, 
+        "epoch_ms": 1541852710000, 
+        "time": "2018-11-10 12:25:10", 
+        "latitude": 3.61769326776, 
+        "type": 0, 
+        "id": 5702
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.637155765, 
+          3.85510280401
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.637155765, 
+        "epoch_ms": 1541852724000, 
+        "time": "2018-11-10 12:25:24", 
+        "latitude": 3.85510280401, 
+        "type": 0, 
+        "id": 5703
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4021247542, 
+          3.1283356552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4021247542, 
+        "epoch_ms": 1541852799000, 
+        "time": "2018-11-10 12:26:39", 
+        "latitude": 3.1283356552, 
+        "type": 0, 
+        "id": 5707
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.8552240971, 
+          3.58628201675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.8552240971, 
+        "epoch_ms": 1541853922000, 
+        "time": "2018-11-10 12:45:22", 
+        "latitude": 3.58628201675, 
+        "type": 1, 
+        "id": 5764
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6230381083, 
+          3.4109596009
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6230381083, 
+        "epoch_ms": 1541854631000, 
+        "time": "2018-11-10 12:57:11", 
+        "latitude": 3.4109596009, 
+        "type": 1, 
+        "id": 5796
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5604459115, 
+          2.89500841787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5604459115, 
+        "epoch_ms": 1541855471000, 
+        "time": "2018-11-10 13:11:11", 
+        "latitude": 2.89500841787, 
+        "type": 1, 
+        "id": 5828
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9203794464, 
+          3.61631545717
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9203794464, 
+        "epoch_ms": 1541855705000, 
+        "time": "2018-11-10 13:15:05", 
+        "latitude": 3.61631545717, 
+        "type": 0, 
+        "id": 5851
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9130400888, 
+          3.8919774556
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9130400888, 
+        "epoch_ms": 1541855742000, 
+        "time": "2018-11-10 13:15:42", 
+        "latitude": 3.8919774556, 
+        "type": 0, 
+        "id": 5854
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.2287668252, 
+          3.66174172214
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.2287668252, 
+        "epoch_ms": 1541855742000, 
+        "time": "2018-11-10 13:15:42", 
+        "latitude": 3.66174172214, 
+        "type": 0, 
+        "id": 5855
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.1112598352, 
+          3.43455199795
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.1112598352, 
+        "epoch_ms": 1541855811000, 
+        "time": "2018-11-10 13:16:51", 
+        "latitude": 3.43455199795, 
+        "type": 1, 
+        "id": 5862
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.0474460274, 
+          3.15526523213
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.0474460274, 
+        "epoch_ms": 1541855831000, 
+        "time": "2018-11-10 13:17:11", 
+        "latitude": 3.15526523213, 
+        "type": 0, 
+        "id": 5867
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.0457138542, 
+          3.2408207314
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.0457138542, 
+        "epoch_ms": 1541855953000, 
+        "time": "2018-11-10 13:19:13", 
+        "latitude": 3.2408207314, 
+        "type": 0, 
+        "id": 5877
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6646557219, 
+          3.55278076453
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6646557219, 
+        "epoch_ms": 1541855968000, 
+        "time": "2018-11-10 13:19:28", 
+        "latitude": 3.55278076453, 
+        "type": 1, 
+        "id": 5880
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4984458752, 
+          3.93913594611
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4984458752, 
+        "epoch_ms": 1541856125000, 
+        "time": "2018-11-10 13:22:05", 
+        "latitude": 3.93913594611, 
+        "type": 1, 
+        "id": 5903
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.375998758, 
+          3.50042636425
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.375998758, 
+        "epoch_ms": 1541856139000, 
+        "time": "2018-11-10 13:22:19", 
+        "latitude": 3.50042636425, 
+        "type": 0, 
+        "id": 5909
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6091629733, 
+          3.73014348633
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6091629733, 
+        "epoch_ms": 1541856219000, 
+        "time": "2018-11-10 13:23:39", 
+        "latitude": 3.73014348633, 
+        "type": 1, 
+        "id": 5938
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.707945557, 
+          3.20288404518
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.707945557, 
+        "epoch_ms": 1541856316000, 
+        "time": "2018-11-10 13:25:16", 
+        "latitude": 3.20288404518, 
+        "type": 1, 
+        "id": 5970
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7736934552, 
+          3.37705930375
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7736934552, 
+        "epoch_ms": 1541856316000, 
+        "time": "2018-11-10 13:25:16", 
+        "latitude": 3.37705930375, 
+        "type": 1, 
+        "id": 5971
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6258452998, 
+          3.57970681138
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6258452998, 
+        "epoch_ms": 1541856394000, 
+        "time": "2018-11-10 13:26:34", 
+        "latitude": 3.57970681138, 
+        "type": 1, 
+        "id": 5991
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6610483876, 
+          4.10876950426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6610483876, 
+        "epoch_ms": 1541856395000, 
+        "time": "2018-11-10 13:26:35", 
+        "latitude": 4.10876950426, 
+        "type": 1, 
+        "id": 5992
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6629768051, 
+          4.10891708135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6629768051, 
+        "epoch_ms": 1541856395000, 
+        "time": "2018-11-10 13:26:35", 
+        "latitude": 4.10891708135, 
+        "type": 1, 
+        "id": 5993
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.7447013708, 
+          3.47181917667
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.7447013708, 
+        "epoch_ms": 1541856405000, 
+        "time": "2018-11-10 13:26:45", 
+        "latitude": 3.47181917667, 
+        "type": 1, 
+        "id": 5996
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.5700493138, 
+          3.47056900462
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.5700493138, 
+        "epoch_ms": 1541856437000, 
+        "time": "2018-11-10 13:27:17", 
+        "latitude": 3.47056900462, 
+        "type": 1, 
+        "id": 6009
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6514352923, 
+          4.06478270266
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6514352923, 
+        "epoch_ms": 1541856507000, 
+        "time": "2018-11-10 13:28:27", 
+        "latitude": 4.06478270266, 
+        "type": 1, 
+        "id": 6028
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6794739694, 
+          3.413991188
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6794739694, 
+        "epoch_ms": 1541856510000, 
+        "time": "2018-11-10 13:28:30", 
+        "latitude": 3.413991188, 
+        "type": 1, 
+        "id": 6032
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6659418806, 
+          3.33334206353
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6659418806, 
+        "epoch_ms": 1541856566000, 
+        "time": "2018-11-10 13:29:26", 
+        "latitude": 3.33334206353, 
+        "type": 0, 
+        "id": 6049
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.5815878894, 
+          3.36861366102
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.5815878894, 
+        "epoch_ms": 1541856590000, 
+        "time": "2018-11-10 13:29:50", 
+        "latitude": 3.36861366102, 
+        "type": 1, 
+        "id": 6060
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6523363891, 
+          3.43662173767
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6523363891, 
+        "epoch_ms": 1541856590000, 
+        "time": "2018-11-10 13:29:50", 
+        "latitude": 3.43662173767, 
+        "type": 1, 
+        "id": 6061
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.1536828587, 
+          4.42551082029
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.1536828587, 
+        "epoch_ms": 1541856603000, 
+        "time": "2018-11-10 13:30:03", 
+        "latitude": 4.42551082029, 
+        "type": 1, 
+        "id": 6062
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6245769903, 
+          3.64261361458
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6245769903, 
+        "epoch_ms": 1541856681000, 
+        "time": "2018-11-10 13:31:21", 
+        "latitude": 3.64261361458, 
+        "type": 1, 
+        "id": 6086
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4623442921, 
+          2.93192252527
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4623442921, 
+        "epoch_ms": 1541856681000, 
+        "time": "2018-11-10 13:31:21", 
+        "latitude": 2.93192252527, 
+        "type": 1, 
+        "id": 6087
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.9080643585, 
+          3.44069936078
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.9080643585, 
+        "epoch_ms": 1541856686000, 
+        "time": "2018-11-10 13:31:26", 
+        "latitude": 3.44069936078, 
+        "type": 0, 
+        "id": 6090
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5899464794, 
+          3.61610555181
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5899464794, 
+        "epoch_ms": 1541856704000, 
+        "time": "2018-11-10 13:31:44", 
+        "latitude": 3.61610555181, 
+        "type": 1, 
+        "id": 6103
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6568531642, 
+          4.00696332604
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6568531642, 
+        "epoch_ms": 1541856721000, 
+        "time": "2018-11-10 13:32:01", 
+        "latitude": 4.00696332604, 
+        "type": 1, 
+        "id": 6105
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6924007784, 
+          3.48176055308
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6924007784, 
+        "epoch_ms": 1541856738000, 
+        "time": "2018-11-10 13:32:18", 
+        "latitude": 3.48176055308, 
+        "type": 1, 
+        "id": 6111
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.9728007968, 
+          2.91042658977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.9728007968, 
+        "epoch_ms": 1541856767000, 
+        "time": "2018-11-10 13:32:47", 
+        "latitude": 2.91042658977, 
+        "type": 1, 
+        "id": 6129
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.61217136, 
+          3.46846756755
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.61217136, 
+        "epoch_ms": 1541856784000, 
+        "time": "2018-11-10 13:33:04", 
+        "latitude": 3.46846756755, 
+        "type": 1, 
+        "id": 6132
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.8155735469, 
+          3.46627777976
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.8155735469, 
+        "epoch_ms": 1541856784000, 
+        "time": "2018-11-10 13:33:04", 
+        "latitude": 3.46627777976, 
+        "type": 0, 
+        "id": 6133
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3953350755, 
+          3.61816230464
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3953350755, 
+        "epoch_ms": 1541856801000, 
+        "time": "2018-11-10 13:33:21", 
+        "latitude": 3.61816230464, 
+        "type": 0, 
+        "id": 6146
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5750857494, 
+          3.87144867506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5750857494, 
+        "epoch_ms": 1541856816000, 
+        "time": "2018-11-10 13:33:36", 
+        "latitude": 3.87144867506, 
+        "type": 1, 
+        "id": 6154
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6536037647, 
+          3.38057538691
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6536037647, 
+        "epoch_ms": 1541856824000, 
+        "time": "2018-11-10 13:33:44", 
+        "latitude": 3.38057538691, 
+        "type": 1, 
+        "id": 6159
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4383044388, 
+          4.06489239179
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4383044388, 
+        "epoch_ms": 1541856825000, 
+        "time": "2018-11-10 13:33:45", 
+        "latitude": 4.06489239179, 
+        "type": 1, 
+        "id": 6161
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.7863887452, 
+          3.61012532312
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.7863887452, 
+        "epoch_ms": 1541856865000, 
+        "time": "2018-11-10 13:34:25", 
+        "latitude": 3.61012532312, 
+        "type": 1, 
+        "id": 6169
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6744416853, 
+          3.44644289911
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6744416853, 
+        "epoch_ms": 1541856866000, 
+        "time": "2018-11-10 13:34:26", 
+        "latitude": 3.44644289911, 
+        "type": 1, 
+        "id": 6170
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.409805503, 
+          3.37742597568
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.409805503, 
+        "epoch_ms": 1541856884000, 
+        "time": "2018-11-10 13:34:44", 
+        "latitude": 3.37742597568, 
+        "type": 1, 
+        "id": 6182
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.5538470934, 
+          3.41006128692
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.5538470934, 
+        "epoch_ms": 1541856914000, 
+        "time": "2018-11-10 13:35:14", 
+        "latitude": 3.41006128692, 
+        "type": 1, 
+        "id": 6201
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3471606883, 
+          3.61245822841
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3471606883, 
+        "epoch_ms": 1541856927000, 
+        "time": "2018-11-10 13:35:27", 
+        "latitude": 3.61245822841, 
+        "type": 1, 
+        "id": 6207
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6175040048, 
+          4.0134176479
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6175040048, 
+        "epoch_ms": 1541856959000, 
+        "time": "2018-11-10 13:35:59", 
+        "latitude": 4.0134176479, 
+        "type": 1, 
+        "id": 6221
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8501232924, 
+          3.01220880241
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8501232924, 
+        "epoch_ms": 1541856964000, 
+        "time": "2018-11-10 13:36:04", 
+        "latitude": 3.01220880241, 
+        "type": 0, 
+        "id": 6222
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4330966314, 
+          4.07162103418
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4330966314, 
+        "epoch_ms": 1541856964000, 
+        "time": "2018-11-10 13:36:04", 
+        "latitude": 4.07162103418, 
+        "type": 1, 
+        "id": 6223
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4030171243, 
+          3.77235819048
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4030171243, 
+        "epoch_ms": 1541856965000, 
+        "time": "2018-11-10 13:36:05", 
+        "latitude": 3.77235819048, 
+        "type": 0, 
+        "id": 6226
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7125697637, 
+          4.1156754909
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7125697637, 
+        "epoch_ms": 1541856967000, 
+        "time": "2018-11-10 13:36:07", 
+        "latitude": 4.1156754909, 
+        "type": 0, 
+        "id": 6227
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.8466382725, 
+          3.40608685724
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.8466382725, 
+        "epoch_ms": 1541856994000, 
+        "time": "2018-11-10 13:36:34", 
+        "latitude": 3.40608685724, 
+        "type": 1, 
+        "id": 6239
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8930914698, 
+          4.07739565877
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8930914698, 
+        "epoch_ms": 1541856995000, 
+        "time": "2018-11-10 13:36:35", 
+        "latitude": 4.07739565877, 
+        "type": 1, 
+        "id": 6242
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8347967303, 
+          4.05481591712
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8347967303, 
+        "epoch_ms": 1541857001000, 
+        "time": "2018-11-10 13:36:41", 
+        "latitude": 4.05481591712, 
+        "type": 0, 
+        "id": 6246
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3032969094, 
+          3.63326830329
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3032969094, 
+        "epoch_ms": 1541857007000, 
+        "time": "2018-11-10 13:36:47", 
+        "latitude": 3.63326830329, 
+        "type": 1, 
+        "id": 6250
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7303216441, 
+          3.21083433469
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7303216441, 
+        "epoch_ms": 1541857015000, 
+        "time": "2018-11-10 13:36:55", 
+        "latitude": 3.21083433469, 
+        "type": 0, 
+        "id": 6258
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5073116633, 
+          4.1493903879
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5073116633, 
+        "epoch_ms": 1541857035000, 
+        "time": "2018-11-10 13:37:15", 
+        "latitude": 4.1493903879, 
+        "type": 1, 
+        "id": 6273
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.0082956, 
+          3.14125355002
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.0082956, 
+        "epoch_ms": 1541857042000, 
+        "time": "2018-11-10 13:37:22", 
+        "latitude": 3.14125355002, 
+        "type": 1, 
+        "id": 6277
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8392710481, 
+          2.91129907696
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8392710481, 
+        "epoch_ms": 1541857083000, 
+        "time": "2018-11-10 13:38:03", 
+        "latitude": 2.91129907696, 
+        "type": 1, 
+        "id": 6296
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.7582528765, 
+          3.42603390601
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.7582528765, 
+        "epoch_ms": 1541857085000, 
+        "time": "2018-11-10 13:38:05", 
+        "latitude": 3.42603390601, 
+        "type": 1, 
+        "id": 6302
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5458459931, 
+          2.94948078128
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5458459931, 
+        "epoch_ms": 1541857086000, 
+        "time": "2018-11-10 13:38:06", 
+        "latitude": 2.94948078128, 
+        "type": 1, 
+        "id": 6308
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5737712657, 
+          4.11560564707
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5737712657, 
+        "epoch_ms": 1541857112000, 
+        "time": "2018-11-10 13:38:32", 
+        "latitude": 4.11560564707, 
+        "type": 1, 
+        "id": 6319
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3078472015, 
+          3.09677249868
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3078472015, 
+        "epoch_ms": 1541857112000, 
+        "time": "2018-11-10 13:38:32", 
+        "latitude": 3.09677249868, 
+        "type": 1, 
+        "id": 6321
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8642371807, 
+          4.03663766296
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8642371807, 
+        "epoch_ms": 1541857112000, 
+        "time": "2018-11-10 13:38:32", 
+        "latitude": 4.03663766296, 
+        "type": 1, 
+        "id": 6322
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5556995289, 
+          3.03095679113
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5556995289, 
+        "epoch_ms": 1541857127000, 
+        "time": "2018-11-10 13:38:47", 
+        "latitude": 3.03095679113, 
+        "type": 1, 
+        "id": 6330
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8985434111, 
+          2.89939101392
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8985434111, 
+        "epoch_ms": 1541857143000, 
+        "time": "2018-11-10 13:39:03", 
+        "latitude": 2.89939101392, 
+        "type": 1, 
+        "id": 6344
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4703315531, 
+          3.93453557249
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4703315531, 
+        "epoch_ms": 1541857157000, 
+        "time": "2018-11-10 13:39:17", 
+        "latitude": 3.93453557249, 
+        "type": 1, 
+        "id": 6354
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5881766196, 
+          3.92565971559
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5881766196, 
+        "epoch_ms": 1541857162000, 
+        "time": "2018-11-10 13:39:22", 
+        "latitude": 3.92565971559, 
+        "type": 1, 
+        "id": 6356
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8159968738, 
+          3.08174123514
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8159968738, 
+        "epoch_ms": 1541857162000, 
+        "time": "2018-11-10 13:39:22", 
+        "latitude": 3.08174123514, 
+        "type": 1, 
+        "id": 6357
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9502333687, 
+          3.81885598056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9502333687, 
+        "epoch_ms": 1541857163000, 
+        "time": "2018-11-10 13:39:23", 
+        "latitude": 3.81885598056, 
+        "type": 1, 
+        "id": 6359
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.234560298, 
+          3.78701025052
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.234560298, 
+        "epoch_ms": 1541857184000, 
+        "time": "2018-11-10 13:39:44", 
+        "latitude": 3.78701025052, 
+        "type": 1, 
+        "id": 6374
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.1263767797, 
+          3.69961019048
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.1263767797, 
+        "epoch_ms": 1541857185000, 
+        "time": "2018-11-10 13:39:45", 
+        "latitude": 3.69961019048, 
+        "type": 1, 
+        "id": 6377
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6290266099, 
+          3.96613220114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6290266099, 
+        "epoch_ms": 1541857191000, 
+        "time": "2018-11-10 13:39:51", 
+        "latitude": 3.96613220114, 
+        "type": 0, 
+        "id": 6384
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5107566258, 
+          3.8862852251
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5107566258, 
+        "epoch_ms": 1541857194000, 
+        "time": "2018-11-10 13:39:54", 
+        "latitude": 3.8862852251, 
+        "type": 1, 
+        "id": 6387
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.5762084407, 
+          3.43770416346
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.5762084407, 
+        "epoch_ms": 1541857229000, 
+        "time": "2018-11-10 13:40:29", 
+        "latitude": 3.43770416346, 
+        "type": 1, 
+        "id": 6403
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.526623641, 
+          4.06934954285
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.526623641, 
+        "epoch_ms": 1541857232000, 
+        "time": "2018-11-10 13:40:32", 
+        "latitude": 4.06934954285, 
+        "type": 1, 
+        "id": 6407
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4940497923, 
+          3.68528620689
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4940497923, 
+        "epoch_ms": 1541857232000, 
+        "time": "2018-11-10 13:40:32", 
+        "latitude": 3.68528620689, 
+        "type": 1, 
+        "id": 6409
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6722640475, 
+          3.63584307151
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6722640475, 
+        "epoch_ms": 1541857232000, 
+        "time": "2018-11-10 13:40:32", 
+        "latitude": 3.63584307151, 
+        "type": 1, 
+        "id": 6410
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4729919242, 
+          3.66132329242
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4729919242, 
+        "epoch_ms": 1541857232000, 
+        "time": "2018-11-10 13:40:32", 
+        "latitude": 3.66132329242, 
+        "type": 1, 
+        "id": 6411
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5774403171, 
+          3.06739553316
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5774403171, 
+        "epoch_ms": 1541857265000, 
+        "time": "2018-11-10 13:41:05", 
+        "latitude": 3.06739553316, 
+        "type": 0, 
+        "id": 6434
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.960507878, 
+          4.14192663725
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.960507878, 
+        "epoch_ms": 1541857266000, 
+        "time": "2018-11-10 13:41:06", 
+        "latitude": 4.14192663725, 
+        "type": 1, 
+        "id": 6436
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6699676501, 
+          3.80788161187
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6699676501, 
+        "epoch_ms": 1541857268000, 
+        "time": "2018-11-10 13:41:08", 
+        "latitude": 3.80788161187, 
+        "type": 0, 
+        "id": 6438
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.766642049, 
+          3.58530991019
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.766642049, 
+        "epoch_ms": 1541857268000, 
+        "time": "2018-11-10 13:41:08", 
+        "latitude": 3.58530991019, 
+        "type": 1, 
+        "id": 6439
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7468471759, 
+          4.10018752346
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7468471759, 
+        "epoch_ms": 1541857273000, 
+        "time": "2018-11-10 13:41:13", 
+        "latitude": 4.10018752346, 
+        "type": 1, 
+        "id": 6446
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3130911996, 
+          3.11473870336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3130911996, 
+        "epoch_ms": 1541857276000, 
+        "time": "2018-11-10 13:41:16", 
+        "latitude": 3.11473870336, 
+        "type": 0, 
+        "id": 6450
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5223779664, 
+          4.03359412867
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5223779664, 
+        "epoch_ms": 1541857276000, 
+        "time": "2018-11-10 13:41:16", 
+        "latitude": 4.03359412867, 
+        "type": 0, 
+        "id": 6451
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6527100534, 
+          3.48745887344
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6527100534, 
+        "epoch_ms": 1541857278000, 
+        "time": "2018-11-10 13:41:18", 
+        "latitude": 3.48745887344, 
+        "type": 1, 
+        "id": 6452
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8990483334, 
+          2.8920484207
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8990483334, 
+        "epoch_ms": 1541857281000, 
+        "time": "2018-11-10 13:41:21", 
+        "latitude": 2.8920484207, 
+        "type": 1, 
+        "id": 6455
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.9183337959, 
+          3.1329828175
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.9183337959, 
+        "epoch_ms": 1541857301000, 
+        "time": "2018-11-10 13:41:41", 
+        "latitude": 3.1329828175, 
+        "type": 0, 
+        "id": 6464
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4895524247, 
+          3.63630882217
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4895524247, 
+        "epoch_ms": 1541857301000, 
+        "time": "2018-11-10 13:41:41", 
+        "latitude": 3.63630882217, 
+        "type": 0, 
+        "id": 6471
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8137829723, 
+          4.0312088205
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8137829723, 
+        "epoch_ms": 1541857315000, 
+        "time": "2018-11-10 13:41:55", 
+        "latitude": 4.0312088205, 
+        "type": 1, 
+        "id": 6484
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6759526072, 
+          3.17690780363
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6759526072, 
+        "epoch_ms": 1541857324000, 
+        "time": "2018-11-10 13:42:04", 
+        "latitude": 3.17690780363, 
+        "type": 0, 
+        "id": 6496
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.0247488054, 
+          3.47608036798
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.0247488054, 
+        "epoch_ms": 1541857335000, 
+        "time": "2018-11-10 13:42:15", 
+        "latitude": 3.47608036798, 
+        "type": 1, 
+        "id": 6506
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5819996081, 
+          4.16925414158
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5819996081, 
+        "epoch_ms": 1541857347000, 
+        "time": "2018-11-10 13:42:27", 
+        "latitude": 4.16925414158, 
+        "type": 1, 
+        "id": 6516
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6548464477, 
+          4.16321901664
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6548464477, 
+        "epoch_ms": 1541857347000, 
+        "time": "2018-11-10 13:42:27", 
+        "latitude": 4.16321901664, 
+        "type": 1, 
+        "id": 6517
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6755591881, 
+          3.65454585221
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6755591881, 
+        "epoch_ms": 1541857347000, 
+        "time": "2018-11-10 13:42:27", 
+        "latitude": 3.65454585221, 
+        "type": 1, 
+        "id": 6521
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.7478121631, 
+          3.54680352937
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.7478121631, 
+        "epoch_ms": 1541857400000, 
+        "time": "2018-11-10 13:43:20", 
+        "latitude": 3.54680352937, 
+        "type": 1, 
+        "id": 6547
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.3886051412, 
+          3.53663726648
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.3886051412, 
+        "epoch_ms": 1541857413000, 
+        "time": "2018-11-10 13:43:33", 
+        "latitude": 3.53663726648, 
+        "type": 1, 
+        "id": 6550
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5600187232, 
+          4.07059140655
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5600187232, 
+        "epoch_ms": 1541857434000, 
+        "time": "2018-11-10 13:43:54", 
+        "latitude": 4.07059140655, 
+        "type": 1, 
+        "id": 6568
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.4847300767, 
+          3.09338766468
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.4847300767, 
+        "epoch_ms": 1541857434000, 
+        "time": "2018-11-10 13:43:54", 
+        "latitude": 3.09338766468, 
+        "type": 1, 
+        "id": 6570
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5403502224, 
+          4.06926199756
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5403502224, 
+        "epoch_ms": 1541857444000, 
+        "time": "2018-11-10 13:44:04", 
+        "latitude": 4.06926199756, 
+        "type": 1, 
+        "id": 6574
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.737305519, 
+          3.62624219398
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.737305519, 
+        "epoch_ms": 1541857444000, 
+        "time": "2018-11-10 13:44:04", 
+        "latitude": 3.62624219398, 
+        "type": 1, 
+        "id": 6575
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5659057205, 
+          3.83523003618
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5659057205, 
+        "epoch_ms": 1541857456000, 
+        "time": "2018-11-10 13:44:16", 
+        "latitude": 3.83523003618, 
+        "type": 1, 
+        "id": 6580
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.7728783392, 
+          3.36621609679
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.7728783392, 
+        "epoch_ms": 1541857457000, 
+        "time": "2018-11-10 13:44:17", 
+        "latitude": 3.36621609679, 
+        "type": 0, 
+        "id": 6583
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9420833457, 
+          3.64258610619
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9420833457, 
+        "epoch_ms": 1541857476000, 
+        "time": "2018-11-10 13:44:36", 
+        "latitude": 3.64258610619, 
+        "type": 1, 
+        "id": 6593
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.6597658146, 
+          3.42390187671
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.6597658146, 
+        "epoch_ms": 1541857498000, 
+        "time": "2018-11-10 13:44:58", 
+        "latitude": 3.42390187671, 
+        "type": 1, 
+        "id": 6608
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5577403026, 
+          3.81742172227
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5577403026, 
+        "epoch_ms": 1541857502000, 
+        "time": "2018-11-10 13:45:02", 
+        "latitude": 3.81742172227, 
+        "type": 0, 
+        "id": 6609
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7420188062, 
+          3.89315295823
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7420188062, 
+        "epoch_ms": 1541857502000, 
+        "time": "2018-11-10 13:45:02", 
+        "latitude": 3.89315295823, 
+        "type": 1, 
+        "id": 6610
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6988689351, 
+          4.11042395544
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6988689351, 
+        "epoch_ms": 1541857523000, 
+        "time": "2018-11-10 13:45:23", 
+        "latitude": 4.11042395544, 
+        "type": 1, 
+        "id": 6622
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.28614877, 
+          3.26680458289
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.28614877, 
+        "epoch_ms": 1541857541000, 
+        "time": "2018-11-10 13:45:41", 
+        "latitude": 3.26680458289, 
+        "type": 1, 
+        "id": 6632
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.4848779838, 
+          3.51167811226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.4848779838, 
+        "epoch_ms": 1541857544000, 
+        "time": "2018-11-10 13:45:44", 
+        "latitude": 3.51167811226, 
+        "type": 1, 
+        "id": 6638
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.2931295709, 
+          3.26909398723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.2931295709, 
+        "epoch_ms": 1541857556000, 
+        "time": "2018-11-10 13:45:56", 
+        "latitude": 3.26909398723, 
+        "type": 0, 
+        "id": 6643
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.1634899117, 
+          3.89688386894
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.1634899117, 
+        "epoch_ms": 1541857583000, 
+        "time": "2018-11-10 13:46:23", 
+        "latitude": 3.89688386894, 
+        "type": 1, 
+        "id": 6658
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6156599009, 
+          2.93320623401
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6156599009, 
+        "epoch_ms": 1541857583000, 
+        "time": "2018-11-10 13:46:23", 
+        "latitude": 2.93320623401, 
+        "type": 1, 
+        "id": 6659
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.0240935282, 
+          3.9202196019
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.0240935282, 
+        "epoch_ms": 1541857583000, 
+        "time": "2018-11-10 13:46:23", 
+        "latitude": 3.9202196019, 
+        "type": 1, 
+        "id": 6660
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.2720198791, 
+          3.67222898455
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.2720198791, 
+        "epoch_ms": 1541857601000, 
+        "time": "2018-11-10 13:46:41", 
+        "latitude": 3.67222898455, 
+        "type": 1, 
+        "id": 6671
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5222668392, 
+          4.01398852
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5222668392, 
+        "epoch_ms": 1541857610000, 
+        "time": "2018-11-10 13:46:50", 
+        "latitude": 4.01398852, 
+        "type": 1, 
+        "id": 6678
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5362115198, 
+          4.00655119105
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5362115198, 
+        "epoch_ms": 1541857610000, 
+        "time": "2018-11-10 13:46:50", 
+        "latitude": 4.00655119105, 
+        "type": 1, 
+        "id": 6679
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7612682218, 
+          2.94013408787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7612682218, 
+        "epoch_ms": 1541857644000, 
+        "time": "2018-11-10 13:47:24", 
+        "latitude": 2.94013408787, 
+        "type": 1, 
+        "id": 6699
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5126700104, 
+          2.91570708162
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5126700104, 
+        "epoch_ms": 1541857654000, 
+        "time": "2018-11-10 13:47:34", 
+        "latitude": 2.91570708162, 
+        "type": 1, 
+        "id": 6708
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.0545720343, 
+          3.28024887737
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.0545720343, 
+        "epoch_ms": 1541857659000, 
+        "time": "2018-11-10 13:47:39", 
+        "latitude": 3.28024887737, 
+        "type": 1, 
+        "id": 6714
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.8019583787, 
+          3.42543485447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.8019583787, 
+        "epoch_ms": 1541857659000, 
+        "time": "2018-11-10 13:47:39", 
+        "latitude": 3.42543485447, 
+        "type": 1, 
+        "id": 6715
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.88280416, 
+          3.45646833163
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.88280416, 
+        "epoch_ms": 1541857666000, 
+        "time": "2018-11-10 13:47:46", 
+        "latitude": 3.45646833163, 
+        "type": 0, 
+        "id": 6719
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6846289482, 
+          2.90895249142
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6846289482, 
+        "epoch_ms": 1541857686000, 
+        "time": "2018-11-10 13:48:06", 
+        "latitude": 2.90895249142, 
+        "type": 1, 
+        "id": 6729
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.1706942085, 
+          3.39033741861
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.1706942085, 
+        "epoch_ms": 1541857689000, 
+        "time": "2018-11-10 13:48:09", 
+        "latitude": 3.39033741861, 
+        "type": 0, 
+        "id": 6731
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.744892397, 
+          3.44325891335
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.744892397, 
+        "epoch_ms": 1541857703000, 
+        "time": "2018-11-10 13:48:23", 
+        "latitude": 3.44325891335, 
+        "type": 1, 
+        "id": 6741
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4722675589, 
+          3.69994031903
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4722675589, 
+        "epoch_ms": 1541857712000, 
+        "time": "2018-11-10 13:48:32", 
+        "latitude": 3.69994031903, 
+        "type": 1, 
+        "id": 6748
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5961118659, 
+          2.86879306974
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5961118659, 
+        "epoch_ms": 1541857712000, 
+        "time": "2018-11-10 13:48:32", 
+        "latitude": 2.86879306974, 
+        "type": 1, 
+        "id": 6749
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7372656976, 
+          3.41055296004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7372656976, 
+        "epoch_ms": 1541857712000, 
+        "time": "2018-11-10 13:48:32", 
+        "latitude": 3.41055296004, 
+        "type": 1, 
+        "id": 6750
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4792321852, 
+          3.70204250957
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4792321852, 
+        "epoch_ms": 1541857712000, 
+        "time": "2018-11-10 13:48:32", 
+        "latitude": 3.70204250957, 
+        "type": 1, 
+        "id": 6751
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.4845292154, 
+          3.32227629176
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.4845292154, 
+        "epoch_ms": 1541857732000, 
+        "time": "2018-11-10 13:48:52", 
+        "latitude": 3.32227629176, 
+        "type": 1, 
+        "id": 6763
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5184995725, 
+          2.93369520619
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5184995725, 
+        "epoch_ms": 1541857739000, 
+        "time": "2018-11-10 13:48:59", 
+        "latitude": 2.93369520619, 
+        "type": 1, 
+        "id": 6766
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7152480074, 
+          2.98092904107
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7152480074, 
+        "epoch_ms": 1541857740000, 
+        "time": "2018-11-10 13:49:00", 
+        "latitude": 2.98092904107, 
+        "type": 1, 
+        "id": 6769
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5896417275, 
+          2.94066472165
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5896417275, 
+        "epoch_ms": 1541857766000, 
+        "time": "2018-11-10 13:49:26", 
+        "latitude": 2.94066472165, 
+        "type": 1, 
+        "id": 6784
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4368070156, 
+          4.06643339473
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4368070156, 
+        "epoch_ms": 1541857783000, 
+        "time": "2018-11-10 13:49:43", 
+        "latitude": 4.06643339473, 
+        "type": 0, 
+        "id": 6795
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7891348734, 
+          3.51952100981
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7891348734, 
+        "epoch_ms": 1541857784000, 
+        "time": "2018-11-10 13:49:44", 
+        "latitude": 3.51952100981, 
+        "type": 1, 
+        "id": 6797
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7345650498, 
+          2.98271636067
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7345650498, 
+        "epoch_ms": 1541857784000, 
+        "time": "2018-11-10 13:49:44", 
+        "latitude": 2.98271636067, 
+        "type": 1, 
+        "id": 6798
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5601181257, 
+          3.1751202303
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5601181257, 
+        "epoch_ms": 1541857789000, 
+        "time": "2018-11-10 13:49:49", 
+        "latitude": 3.1751202303, 
+        "type": 1, 
+        "id": 6805
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6799254485, 
+          4.13093730513
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6799254485, 
+        "epoch_ms": 1541857790000, 
+        "time": "2018-11-10 13:49:50", 
+        "latitude": 4.13093730513, 
+        "type": 1, 
+        "id": 6806
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4194481279, 
+          3.54133701508
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4194481279, 
+        "epoch_ms": 1541857797000, 
+        "time": "2018-11-10 13:49:57", 
+        "latitude": 3.54133701508, 
+        "type": 0, 
+        "id": 6811
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.579513313, 
+          3.8713335494
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.579513313, 
+        "epoch_ms": 1541857797000, 
+        "time": "2018-11-10 13:49:57", 
+        "latitude": 3.8713335494, 
+        "type": 1, 
+        "id": 6813
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.022618265, 
+          3.56244780586
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.022618265, 
+        "epoch_ms": 1541857797000, 
+        "time": "2018-11-10 13:49:57", 
+        "latitude": 3.56244780586, 
+        "type": 1, 
+        "id": 6815
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6457320602, 
+          3.2136106832
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6457320602, 
+        "epoch_ms": 1541857797000, 
+        "time": "2018-11-10 13:49:57", 
+        "latitude": 3.2136106832, 
+        "type": 1, 
+        "id": 6816
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4932558222, 
+          3.79084635406
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4932558222, 
+        "epoch_ms": 1541857797000, 
+        "time": "2018-11-10 13:49:57", 
+        "latitude": 3.79084635406, 
+        "type": 1, 
+        "id": 6817
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5335427864, 
+          3.7708641366
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5335427864, 
+        "epoch_ms": 1541857808000, 
+        "time": "2018-11-10 13:50:08", 
+        "latitude": 3.7708641366, 
+        "type": 1, 
+        "id": 6819
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6161251523, 
+          3.23336130729
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6161251523, 
+        "epoch_ms": 1541857808000, 
+        "time": "2018-11-10 13:50:08", 
+        "latitude": 3.23336130729, 
+        "type": 1, 
+        "id": 6820
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.2068777292, 
+          3.33890668246
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.2068777292, 
+        "epoch_ms": 1541857812000, 
+        "time": "2018-11-10 13:50:12", 
+        "latitude": 3.33890668246, 
+        "type": 1, 
+        "id": 6822
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7316295326, 
+          3.80999448813
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7316295326, 
+        "epoch_ms": 1541857812000, 
+        "time": "2018-11-10 13:50:12", 
+        "latitude": 3.80999448813, 
+        "type": 1, 
+        "id": 6827
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.42278555, 
+          3.45292085917
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.42278555, 
+        "epoch_ms": 1541857825000, 
+        "time": "2018-11-10 13:50:25", 
+        "latitude": 3.45292085917, 
+        "type": 1, 
+        "id": 6832
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6708285259, 
+          3.18413568414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6708285259, 
+        "epoch_ms": 1541857836000, 
+        "time": "2018-11-10 13:50:36", 
+        "latitude": 3.18413568414, 
+        "type": 0, 
+        "id": 6840
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.8213270329, 
+          3.39753608868
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.8213270329, 
+        "epoch_ms": 1541857840000, 
+        "time": "2018-11-10 13:50:40", 
+        "latitude": 3.39753608868, 
+        "type": 1, 
+        "id": 6844
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5671450934, 
+          3.16647618334
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5671450934, 
+        "epoch_ms": 1541857852000, 
+        "time": "2018-11-10 13:50:52", 
+        "latitude": 3.16647618334, 
+        "type": 1, 
+        "id": 6847
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5396864894, 
+          3.8612614292
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5396864894, 
+        "epoch_ms": 1541857852000, 
+        "time": "2018-11-10 13:50:52", 
+        "latitude": 3.8612614292, 
+        "type": 1, 
+        "id": 6848
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.4750426169, 
+          3.29550549252
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.4750426169, 
+        "epoch_ms": 1541857853000, 
+        "time": "2018-11-10 13:50:53", 
+        "latitude": 3.29550549252, 
+        "type": 1, 
+        "id": 6851
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6000005533, 
+          2.98629381207
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6000005533, 
+        "epoch_ms": 1541857853000, 
+        "time": "2018-11-10 13:50:53", 
+        "latitude": 2.98629381207, 
+        "type": 1, 
+        "id": 6859
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.152381754, 
+          3.43827503691
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.152381754, 
+        "epoch_ms": 1541857854000, 
+        "time": "2018-11-10 13:50:54", 
+        "latitude": 3.43827503691, 
+        "type": 1, 
+        "id": 6863
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.382955828, 
+          3.97264052274
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.382955828, 
+        "epoch_ms": 1541857855000, 
+        "time": "2018-11-10 13:50:55", 
+        "latitude": 3.97264052274, 
+        "type": 0, 
+        "id": 6865
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8012029821, 
+          4.04980896483
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8012029821, 
+        "epoch_ms": 1541857855000, 
+        "time": "2018-11-10 13:50:55", 
+        "latitude": 4.04980896483, 
+        "type": 1, 
+        "id": 6867
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9978673789, 
+          3.52522252694
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9978673789, 
+        "epoch_ms": 1541857865000, 
+        "time": "2018-11-10 13:51:05", 
+        "latitude": 3.52522252694, 
+        "type": 1, 
+        "id": 6874
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.431976918, 
+          3.97169811134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.431976918, 
+        "epoch_ms": 1541857875000, 
+        "time": "2018-11-10 13:51:15", 
+        "latitude": 3.97169811134, 
+        "type": 0, 
+        "id": 6880
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.395145287, 
+          3.9415551952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.395145287, 
+        "epoch_ms": 1541857875000, 
+        "time": "2018-11-10 13:51:15", 
+        "latitude": 3.9415551952, 
+        "type": 1, 
+        "id": 6882
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4568589874, 
+          4.04295164151
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4568589874, 
+        "epoch_ms": 1541857876000, 
+        "time": "2018-11-10 13:51:16", 
+        "latitude": 4.04295164151, 
+        "type": 1, 
+        "id": 6886
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6120783404, 
+          2.986924625
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6120783404, 
+        "epoch_ms": 1541857884000, 
+        "time": "2018-11-10 13:51:24", 
+        "latitude": 2.986924625, 
+        "type": 1, 
+        "id": 6888
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6330004892, 
+          3.16479687416
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6330004892, 
+        "epoch_ms": 1541857899000, 
+        "time": "2018-11-10 13:51:39", 
+        "latitude": 3.16479687416, 
+        "type": 1, 
+        "id": 6892
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.876611851, 
+          3.40508050842
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.876611851, 
+        "epoch_ms": 1541857899000, 
+        "time": "2018-11-10 13:51:39", 
+        "latitude": 3.40508050842, 
+        "type": 1, 
+        "id": 6893
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7123527395, 
+          4.07230885442
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7123527395, 
+        "epoch_ms": 1541857905000, 
+        "time": "2018-11-10 13:51:45", 
+        "latitude": 4.07230885442, 
+        "type": 1, 
+        "id": 6898
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.8915659616, 
+          3.41437374655
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.8915659616, 
+        "epoch_ms": 1541857907000, 
+        "time": "2018-11-10 13:51:47", 
+        "latitude": 3.41437374655, 
+        "type": 0, 
+        "id": 6899
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7279929345, 
+          3.40901321945
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7279929345, 
+        "epoch_ms": 1541857910000, 
+        "time": "2018-11-10 13:51:50", 
+        "latitude": 3.40901321945, 
+        "type": 1, 
+        "id": 6902
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6836899077, 
+          4.01961205357
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6836899077, 
+        "epoch_ms": 1541857910000, 
+        "time": "2018-11-10 13:51:50", 
+        "latitude": 4.01961205357, 
+        "type": 0, 
+        "id": 6903
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7704902847, 
+          2.96264095233
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7704902847, 
+        "epoch_ms": 1541857910000, 
+        "time": "2018-11-10 13:51:50", 
+        "latitude": 2.96264095233, 
+        "type": 1, 
+        "id": 6904
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7995322111, 
+          3.98711339283
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7995322111, 
+        "epoch_ms": 1541857912000, 
+        "time": "2018-11-10 13:51:52", 
+        "latitude": 3.98711339283, 
+        "type": 0, 
+        "id": 6906
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.4258695966, 
+          3.30228032324
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.4258695966, 
+        "epoch_ms": 1541857913000, 
+        "time": "2018-11-10 13:51:53", 
+        "latitude": 3.30228032324, 
+        "type": 1, 
+        "id": 6911
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7039444121, 
+          3.82746035642
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7039444121, 
+        "epoch_ms": 1541857928000, 
+        "time": "2018-11-10 13:52:08", 
+        "latitude": 3.82746035642, 
+        "type": 0, 
+        "id": 6918
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4140198927, 
+          3.42441411194
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4140198927, 
+        "epoch_ms": 1541857937000, 
+        "time": "2018-11-10 13:52:17", 
+        "latitude": 3.42441411194, 
+        "type": 1, 
+        "id": 6929
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.4076832303, 
+          3.31716176786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.4076832303, 
+        "epoch_ms": 1541857940000, 
+        "time": "2018-11-10 13:52:20", 
+        "latitude": 3.31716176786, 
+        "type": 1, 
+        "id": 6930
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5710225604, 
+          3.2475668413
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5710225604, 
+        "epoch_ms": 1541857946000, 
+        "time": "2018-11-10 13:52:26", 
+        "latitude": 3.2475668413, 
+        "type": 0, 
+        "id": 6935
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.434473417, 
+          3.79550976353
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.434473417, 
+        "epoch_ms": 1541857952000, 
+        "time": "2018-11-10 13:52:32", 
+        "latitude": 3.79550976353, 
+        "type": 1, 
+        "id": 6939
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6113304132, 
+          3.90378398402
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6113304132, 
+        "epoch_ms": 1541857964000, 
+        "time": "2018-11-10 13:52:44", 
+        "latitude": 3.90378398402, 
+        "type": 0, 
+        "id": 6943
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3972363291, 
+          2.85230674553
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3972363291, 
+        "epoch_ms": 1541857969000, 
+        "time": "2018-11-10 13:52:49", 
+        "latitude": 2.85230674553, 
+        "type": 1, 
+        "id": 6950
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9192696474, 
+          3.45488528668
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9192696474, 
+        "epoch_ms": 1541857976000, 
+        "time": "2018-11-10 13:52:56", 
+        "latitude": 3.45488528668, 
+        "type": 0, 
+        "id": 6957
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5869437729, 
+          3.9522218065
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5869437729, 
+        "epoch_ms": 1541857989000, 
+        "time": "2018-11-10 13:53:09", 
+        "latitude": 3.9522218065, 
+        "type": 1, 
+        "id": 6968
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3883256177, 
+          3.89646222847
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3883256177, 
+        "epoch_ms": 1541857989000, 
+        "time": "2018-11-10 13:53:09", 
+        "latitude": 3.89646222847, 
+        "type": 1, 
+        "id": 6969
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4224445111, 
+          3.69956380999
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4224445111, 
+        "epoch_ms": 1541857990000, 
+        "time": "2018-11-10 13:53:10", 
+        "latitude": 3.69956380999, 
+        "type": 1, 
+        "id": 6970
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.1598931017, 
+          3.79418081139
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.1598931017, 
+        "epoch_ms": 1541857990000, 
+        "time": "2018-11-10 13:53:10", 
+        "latitude": 3.79418081139, 
+        "type": 1, 
+        "id": 6971
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.9432506487, 
+          3.04677866724
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.9432506487, 
+        "epoch_ms": 1541857995000, 
+        "time": "2018-11-10 13:53:15", 
+        "latitude": 3.04677866724, 
+        "type": 0, 
+        "id": 6977
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7947447578, 
+          2.87482821241
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7947447578, 
+        "epoch_ms": 1541858009000, 
+        "time": "2018-11-10 13:53:29", 
+        "latitude": 2.87482821241, 
+        "type": 1, 
+        "id": 6992
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3516131608, 
+          3.93833514474
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3516131608, 
+        "epoch_ms": 1541858009000, 
+        "time": "2018-11-10 13:53:29", 
+        "latitude": 3.93833514474, 
+        "type": 1, 
+        "id": 6993
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4917863485, 
+          3.98347038957
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4917863485, 
+        "epoch_ms": 1541858009000, 
+        "time": "2018-11-10 13:53:29", 
+        "latitude": 3.98347038957, 
+        "type": 1, 
+        "id": 6994
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.7971550585, 
+          3.50037774025
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.7971550585, 
+        "epoch_ms": 1541858009000, 
+        "time": "2018-11-10 13:53:29", 
+        "latitude": 3.50037774025, 
+        "type": 1, 
+        "id": 6995
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4193959432, 
+          4.00330599556
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4193959432, 
+        "epoch_ms": 1541858012000, 
+        "time": "2018-11-10 13:53:32", 
+        "latitude": 4.00330599556, 
+        "type": 0, 
+        "id": 7000
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5325451211, 
+          2.98618905749
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5325451211, 
+        "epoch_ms": 1541858013000, 
+        "time": "2018-11-10 13:53:33", 
+        "latitude": 2.98618905749, 
+        "type": 1, 
+        "id": 7002
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.0193959452, 
+          3.63560306656
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.0193959452, 
+        "epoch_ms": 1541858015000, 
+        "time": "2018-11-10 13:53:35", 
+        "latitude": 3.63560306656, 
+        "type": 0, 
+        "id": 7008
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4669975747, 
+          3.9132626812
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4669975747, 
+        "epoch_ms": 1541858017000, 
+        "time": "2018-11-10 13:53:37", 
+        "latitude": 3.9132626812, 
+        "type": 0, 
+        "id": 7012
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5178697738, 
+          2.97822919887
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5178697738, 
+        "epoch_ms": 1541858021000, 
+        "time": "2018-11-10 13:53:41", 
+        "latitude": 2.97822919887, 
+        "type": 0, 
+        "id": 7015
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7137832261, 
+          3.09337673245
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7137832261, 
+        "epoch_ms": 1541858031000, 
+        "time": "2018-11-10 13:53:51", 
+        "latitude": 3.09337673245, 
+        "type": 1, 
+        "id": 7020
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6387225526, 
+          3.0003632919
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6387225526, 
+        "epoch_ms": 1541858031000, 
+        "time": "2018-11-10 13:53:51", 
+        "latitude": 3.0003632919, 
+        "type": 1, 
+        "id": 7022
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.1029375042, 
+          3.53249399397
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.1029375042, 
+        "epoch_ms": 1541858037000, 
+        "time": "2018-11-10 13:53:57", 
+        "latitude": 3.53249399397, 
+        "type": 1, 
+        "id": 7026
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.1317715552, 
+          3.34294846039
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.1317715552, 
+        "epoch_ms": 1541858043000, 
+        "time": "2018-11-10 13:54:03", 
+        "latitude": 3.34294846039, 
+        "type": 0, 
+        "id": 7031
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6057955817, 
+          3.00460326534
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6057955817, 
+        "epoch_ms": 1541858045000, 
+        "time": "2018-11-10 13:54:05", 
+        "latitude": 3.00460326534, 
+        "type": 1, 
+        "id": 7035
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6320887086, 
+          4.03041614523
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6320887086, 
+        "epoch_ms": 1541858045000, 
+        "time": "2018-11-10 13:54:05", 
+        "latitude": 4.03041614523, 
+        "type": 1, 
+        "id": 7036
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.538246308, 
+          3.00362197597
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.538246308, 
+        "epoch_ms": 1541858057000, 
+        "time": "2018-11-10 13:54:17", 
+        "latitude": 3.00362197597, 
+        "type": 0, 
+        "id": 7042
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4519417508, 
+          3.94697794239
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4519417508, 
+        "epoch_ms": 1541858057000, 
+        "time": "2018-11-10 13:54:17", 
+        "latitude": 3.94697794239, 
+        "type": 1, 
+        "id": 7044
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6056914148, 
+          3.01467760675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6056914148, 
+        "epoch_ms": 1541858064000, 
+        "time": "2018-11-10 13:54:24", 
+        "latitude": 3.01467760675, 
+        "type": 0, 
+        "id": 7048
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9268662591, 
+          3.50058686476
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9268662591, 
+        "epoch_ms": 1541858066000, 
+        "time": "2018-11-10 13:54:26", 
+        "latitude": 3.50058686476, 
+        "type": 1, 
+        "id": 7052
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.702152124, 
+          3.93800805345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.702152124, 
+        "epoch_ms": 1541858066000, 
+        "time": "2018-11-10 13:54:26", 
+        "latitude": 3.93800805345, 
+        "type": 1, 
+        "id": 7053
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6926832666, 
+          3.99896879729
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6926832666, 
+        "epoch_ms": 1541858068000, 
+        "time": "2018-11-10 13:54:28", 
+        "latitude": 3.99896879729, 
+        "type": 1, 
+        "id": 7054
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6116883595, 
+          3.014736703
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6116883595, 
+        "epoch_ms": 1541858069000, 
+        "time": "2018-11-10 13:54:29", 
+        "latitude": 3.014736703, 
+        "type": 1, 
+        "id": 7055
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6376152454, 
+          3.26682018296
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6376152454, 
+        "epoch_ms": 1541858072000, 
+        "time": "2018-11-10 13:54:32", 
+        "latitude": 3.26682018296, 
+        "type": 1, 
+        "id": 7057
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.537254859, 
+          4.01587384148
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.537254859, 
+        "epoch_ms": 1541858075000, 
+        "time": "2018-11-10 13:54:35", 
+        "latitude": 4.01587384148, 
+        "type": 1, 
+        "id": 7060
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.544819263, 
+          3.93418291941
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.544819263, 
+        "epoch_ms": 1541858077000, 
+        "time": "2018-11-10 13:54:37", 
+        "latitude": 3.93418291941, 
+        "type": 0, 
+        "id": 7063
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4245290164, 
+          3.39939878826
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4245290164, 
+        "epoch_ms": 1541858077000, 
+        "time": "2018-11-10 13:54:37", 
+        "latitude": 3.39939878826, 
+        "type": 1, 
+        "id": 7064
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4190447437, 
+          3.9117426024
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4190447437, 
+        "epoch_ms": 1541858082000, 
+        "time": "2018-11-10 13:54:42", 
+        "latitude": 3.9117426024, 
+        "type": 1, 
+        "id": 7072
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5498268723, 
+          4.02485671137
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5498268723, 
+        "epoch_ms": 1541858085000, 
+        "time": "2018-11-10 13:54:45", 
+        "latitude": 4.02485671137, 
+        "type": 1, 
+        "id": 7076
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4852097646, 
+          3.68169850743
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4852097646, 
+        "epoch_ms": 1541858086000, 
+        "time": "2018-11-10 13:54:46", 
+        "latitude": 3.68169850743, 
+        "type": 1, 
+        "id": 7077
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5558389136, 
+          3.00373667338
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5558389136, 
+        "epoch_ms": 1541858088000, 
+        "time": "2018-11-10 13:54:48", 
+        "latitude": 3.00373667338, 
+        "type": 1, 
+        "id": 7078
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4447350599, 
+          3.91685635469
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4447350599, 
+        "epoch_ms": 1541858088000, 
+        "time": "2018-11-10 13:54:48", 
+        "latitude": 3.91685635469, 
+        "type": 0, 
+        "id": 7079
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7191302813, 
+          3.0298195485
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7191302813, 
+        "epoch_ms": 1541858090000, 
+        "time": "2018-11-10 13:54:50", 
+        "latitude": 3.0298195485, 
+        "type": 1, 
+        "id": 7085
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.0701899281, 
+          3.47869596634
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.0701899281, 
+        "epoch_ms": 1541858092000, 
+        "time": "2018-11-10 13:54:52", 
+        "latitude": 3.47869596634, 
+        "type": 1, 
+        "id": 7086
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.0522005673, 
+          3.42600880815
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.0522005673, 
+        "epoch_ms": 1541858092000, 
+        "time": "2018-11-10 13:54:52", 
+        "latitude": 3.42600880815, 
+        "type": 1, 
+        "id": 7087
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6531009539, 
+          3.0205249304
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6531009539, 
+        "epoch_ms": 1541858101000, 
+        "time": "2018-11-10 13:55:01", 
+        "latitude": 3.0205249304, 
+        "type": 0, 
+        "id": 7100
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5174720292, 
+          3.90388110294
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5174720292, 
+        "epoch_ms": 1541858106000, 
+        "time": "2018-11-10 13:55:06", 
+        "latitude": 3.90388110294, 
+        "type": 1, 
+        "id": 7104
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9220905069, 
+          3.4720645232
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9220905069, 
+        "epoch_ms": 1541858108000, 
+        "time": "2018-11-10 13:55:08", 
+        "latitude": 3.4720645232, 
+        "type": 1, 
+        "id": 7111
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8052292388, 
+          3.50741720665
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8052292388, 
+        "epoch_ms": 1541858108000, 
+        "time": "2018-11-10 13:55:08", 
+        "latitude": 3.50741720665, 
+        "type": 1, 
+        "id": 7112
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9497515103, 
+          3.57439424185
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9497515103, 
+        "epoch_ms": 1541858112000, 
+        "time": "2018-11-10 13:55:12", 
+        "latitude": 3.57439424185, 
+        "type": 0, 
+        "id": 7113
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6006245883, 
+          3.92457470889
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6006245883, 
+        "epoch_ms": 1541858113000, 
+        "time": "2018-11-10 13:55:13", 
+        "latitude": 3.92457470889, 
+        "type": 0, 
+        "id": 7118
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7208231568, 
+          3.23366586629
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7208231568, 
+        "epoch_ms": 1541858114000, 
+        "time": "2018-11-10 13:55:14", 
+        "latitude": 3.23366586629, 
+        "type": 1, 
+        "id": 7123
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6119213863, 
+          2.95057636578
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6119213863, 
+        "epoch_ms": 1541858118000, 
+        "time": "2018-11-10 13:55:18", 
+        "latitude": 2.95057636578, 
+        "type": 1, 
+        "id": 7129
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5983570612, 
+          2.95941936215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5983570612, 
+        "epoch_ms": 1541858118000, 
+        "time": "2018-11-10 13:55:18", 
+        "latitude": 2.95941936215, 
+        "type": 1, 
+        "id": 7130
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6718100245, 
+          3.06098865411
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6718100245, 
+        "epoch_ms": 1541858129000, 
+        "time": "2018-11-10 13:55:29", 
+        "latitude": 3.06098865411, 
+        "type": 1, 
+        "id": 7136
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6423369991, 
+          3.04468022698
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6423369991, 
+        "epoch_ms": 1541858133000, 
+        "time": "2018-11-10 13:55:33", 
+        "latitude": 3.04468022698, 
+        "type": 1, 
+        "id": 7140
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7938753919, 
+          4.00150005018
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7938753919, 
+        "epoch_ms": 1541858133000, 
+        "time": "2018-11-10 13:55:33", 
+        "latitude": 4.00150005018, 
+        "type": 1, 
+        "id": 7142
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6450079012, 
+          3.05550253173
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6450079012, 
+        "epoch_ms": 1541858134000, 
+        "time": "2018-11-10 13:55:34", 
+        "latitude": 3.05550253173, 
+        "type": 1, 
+        "id": 7143
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8362296872, 
+          3.97896356429
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8362296872, 
+        "epoch_ms": 1541858134000, 
+        "time": "2018-11-10 13:55:34", 
+        "latitude": 3.97896356429, 
+        "type": 1, 
+        "id": 7144
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6796836771, 
+          4.00351520455
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6796836771, 
+        "epoch_ms": 1541858140000, 
+        "time": "2018-11-10 13:55:40", 
+        "latitude": 4.00351520455, 
+        "type": 0, 
+        "id": 7158
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5042181802, 
+          3.91251626259
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5042181802, 
+        "epoch_ms": 1541858141000, 
+        "time": "2018-11-10 13:55:41", 
+        "latitude": 3.91251626259, 
+        "type": 0, 
+        "id": 7160
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7335895916, 
+          3.97904184619
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7335895916, 
+        "epoch_ms": 1541858142000, 
+        "time": "2018-11-10 13:55:42", 
+        "latitude": 3.97904184619, 
+        "type": 0, 
+        "id": 7162
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6845322268, 
+          4.02154991471
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6845322268, 
+        "epoch_ms": 1541858150000, 
+        "time": "2018-11-10 13:55:50", 
+        "latitude": 4.02154991471, 
+        "type": 0, 
+        "id": 7171
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7186231519, 
+          2.9617091738
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7186231519, 
+        "epoch_ms": 1541858150000, 
+        "time": "2018-11-10 13:55:50", 
+        "latitude": 2.9617091738, 
+        "type": 1, 
+        "id": 7173
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9594696532, 
+          3.49328566378
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9594696532, 
+        "epoch_ms": 1541858160000, 
+        "time": "2018-11-10 13:56:00", 
+        "latitude": 3.49328566378, 
+        "type": 1, 
+        "id": 7186
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5984791036, 
+          3.077015047
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5984791036, 
+        "epoch_ms": 1541858168000, 
+        "time": "2018-11-10 13:56:08", 
+        "latitude": 3.077015047, 
+        "type": 0, 
+        "id": 7198
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6875387164, 
+          3.17804014295
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6875387164, 
+        "epoch_ms": 1541858172000, 
+        "time": "2018-11-10 13:56:12", 
+        "latitude": 3.17804014295, 
+        "type": 1, 
+        "id": 7201
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6557767064, 
+          4.01612645489
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6557767064, 
+        "epoch_ms": 1541858173000, 
+        "time": "2018-11-10 13:56:13", 
+        "latitude": 4.01612645489, 
+        "type": 1, 
+        "id": 7202
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7040013559, 
+          3.98982447135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7040013559, 
+        "epoch_ms": 1541858179000, 
+        "time": "2018-11-10 13:56:19", 
+        "latitude": 3.98982447135, 
+        "type": 0, 
+        "id": 7213
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.475275148, 
+          3.71123086512
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.475275148, 
+        "epoch_ms": 1541858193000, 
+        "time": "2018-11-10 13:56:33", 
+        "latitude": 3.71123086512, 
+        "type": 1, 
+        "id": 7227
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9717419257, 
+          3.45697772955
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9717419257, 
+        "epoch_ms": 1541858194000, 
+        "time": "2018-11-10 13:56:34", 
+        "latitude": 3.45697772955, 
+        "type": 1, 
+        "id": 7229
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9777938735, 
+          3.5385987621
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9777938735, 
+        "epoch_ms": 1541858194000, 
+        "time": "2018-11-10 13:56:34", 
+        "latitude": 3.5385987621, 
+        "type": 0, 
+        "id": 7230
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          97.9754854164, 
+          3.49357085708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 97.9754854164, 
+        "epoch_ms": 1541858198000, 
+        "time": "2018-11-10 13:56:38", 
+        "latitude": 3.49357085708, 
+        "type": 1, 
+        "id": 7235
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6740529644, 
+          3.10129408472
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6740529644, 
+        "epoch_ms": 1541858203000, 
+        "time": "2018-11-10 13:56:43", 
+        "latitude": 3.10129408472, 
+        "type": 1, 
+        "id": 7238
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6082893252, 
+          3.98789077376
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6082893252, 
+        "epoch_ms": 1541858205000, 
+        "time": "2018-11-10 13:56:45", 
+        "latitude": 3.98789077376, 
+        "type": 1, 
+        "id": 7244
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.0676407606, 
+          3.59609099971
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.0676407606, 
+        "epoch_ms": 1541858205000, 
+        "time": "2018-11-10 13:56:45", 
+        "latitude": 3.59609099971, 
+        "type": 1, 
+        "id": 7245
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.2845656716, 
+          3.48470911564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.2845656716, 
+        "epoch_ms": 1541858210000, 
+        "time": "2018-11-10 13:56:50", 
+        "latitude": 3.48470911564, 
+        "type": 1, 
+        "id": 7247
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.570435476, 
+          3.89813185498
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.570435476, 
+        "epoch_ms": 1541858215000, 
+        "time": "2018-11-10 13:56:55", 
+        "latitude": 3.89813185498, 
+        "type": 1, 
+        "id": 7252
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6870172529, 
+          3.11425781366
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6870172529, 
+        "epoch_ms": 1541858216000, 
+        "time": "2018-11-10 13:56:56", 
+        "latitude": 3.11425781366, 
+        "type": 0, 
+        "id": 7253
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4383171015, 
+          3.07759244008
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4383171015, 
+        "epoch_ms": 1541858219000, 
+        "time": "2018-11-10 13:56:59", 
+        "latitude": 3.07759244008, 
+        "type": 1, 
+        "id": 7257
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6489040395, 
+          3.07622977044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6489040395, 
+        "epoch_ms": 1541858232000, 
+        "time": "2018-11-10 13:57:12", 
+        "latitude": 3.07622977044, 
+        "type": 1, 
+        "id": 7269
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5617642299, 
+          3.08462082376
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5617642299, 
+        "epoch_ms": 1541858235000, 
+        "time": "2018-11-10 13:57:15", 
+        "latitude": 3.08462082376, 
+        "type": 0, 
+        "id": 7273
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5550454189, 
+          3.07566011064
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5550454189, 
+        "epoch_ms": 1541858238000, 
+        "time": "2018-11-10 13:57:18", 
+        "latitude": 3.07566011064, 
+        "type": 0, 
+        "id": 7278
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3922748383, 
+          2.86483678234
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3922748383, 
+        "epoch_ms": 1541858239000, 
+        "time": "2018-11-10 13:57:19", 
+        "latitude": 2.86483678234, 
+        "type": 1, 
+        "id": 7281
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3588411723, 
+          3.35969162347
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3588411723, 
+        "epoch_ms": 1541858244000, 
+        "time": "2018-11-10 13:57:24", 
+        "latitude": 3.35969162347, 
+        "type": 1, 
+        "id": 7288
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4028865891, 
+          3.94817541814
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4028865891, 
+        "epoch_ms": 1541858244000, 
+        "time": "2018-11-10 13:57:24", 
+        "latitude": 3.94817541814, 
+        "type": 1, 
+        "id": 7289
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7288941498, 
+          3.90120504755
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7288941498, 
+        "epoch_ms": 1541858244000, 
+        "time": "2018-11-10 13:57:24", 
+        "latitude": 3.90120504755, 
+        "type": 0, 
+        "id": 7290
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6674955554, 
+          4.01394470667
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6674955554, 
+        "epoch_ms": 1541858258000, 
+        "time": "2018-11-10 13:57:38", 
+        "latitude": 4.01394470667, 
+        "type": 0, 
+        "id": 7301
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5175791571, 
+          3.89651019301
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5175791571, 
+        "epoch_ms": 1541858258000, 
+        "time": "2018-11-10 13:57:38", 
+        "latitude": 3.89651019301, 
+        "type": 1, 
+        "id": 7306
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.2489446442, 
+          3.53965478526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.2489446442, 
+        "epoch_ms": 1541858262000, 
+        "time": "2018-11-10 13:57:42", 
+        "latitude": 3.53965478526, 
+        "type": 0, 
+        "id": 7310
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6147622782, 
+          2.86911556527
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6147622782, 
+        "epoch_ms": 1541858263000, 
+        "time": "2018-11-10 13:57:43", 
+        "latitude": 2.86911556527, 
+        "type": 0, 
+        "id": 7311
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5464660022, 
+          3.05871173209
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5464660022, 
+        "epoch_ms": 1541858263000, 
+        "time": "2018-11-10 13:57:43", 
+        "latitude": 3.05871173209, 
+        "type": 1, 
+        "id": 7313
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.733591928, 
+          3.95068122081
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.733591928, 
+        "epoch_ms": 1541858265000, 
+        "time": "2018-11-10 13:57:45", 
+        "latitude": 3.95068122081, 
+        "type": 1, 
+        "id": 7315
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4219902031, 
+          2.83837083755
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4219902031, 
+        "epoch_ms": 1541858274000, 
+        "time": "2018-11-10 13:57:54", 
+        "latitude": 2.83837083755, 
+        "type": 0, 
+        "id": 7321
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5346891013, 
+          3.90664865658
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5346891013, 
+        "epoch_ms": 1541858279000, 
+        "time": "2018-11-10 13:57:59", 
+        "latitude": 3.90664865658, 
+        "type": 1, 
+        "id": 7326
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6326058037, 
+          3.07254911179
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6326058037, 
+        "epoch_ms": 1541858279000, 
+        "time": "2018-11-10 13:57:59", 
+        "latitude": 3.07254911179, 
+        "type": 1, 
+        "id": 7327
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5342598757, 
+          3.90617875911
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5342598757, 
+        "epoch_ms": 1541858280000, 
+        "time": "2018-11-10 13:58:00", 
+        "latitude": 3.90617875911, 
+        "type": 1, 
+        "id": 7328
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5880752627, 
+          3.07662351063
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5880752627, 
+        "epoch_ms": 1541858280000, 
+        "time": "2018-11-10 13:58:00", 
+        "latitude": 3.07662351063, 
+        "type": 1, 
+        "id": 7329
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6646453309, 
+          3.10764601678
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6646453309, 
+        "epoch_ms": 1541858280000, 
+        "time": "2018-11-10 13:58:00", 
+        "latitude": 3.10764601678, 
+        "type": 1, 
+        "id": 7330
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6271454579, 
+          4.00263102237
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6271454579, 
+        "epoch_ms": 1541858280000, 
+        "time": "2018-11-10 13:58:00", 
+        "latitude": 4.00263102237, 
+        "type": 1, 
+        "id": 7331
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.1983876852, 
+          3.44735566601
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.1983876852, 
+        "epoch_ms": 1541858294000, 
+        "time": "2018-11-10 13:58:14", 
+        "latitude": 3.44735566601, 
+        "type": 1, 
+        "id": 7340
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.212418645, 
+          2.92966205
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.212418645, 
+        "epoch_ms": 1541858298000, 
+        "time": "2018-11-10 13:58:18", 
+        "latitude": 2.92966205, 
+        "type": 1, 
+        "id": 7349
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3295592075, 
+          2.88187025623
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3295592075, 
+        "epoch_ms": 1541858299000, 
+        "time": "2018-11-10 13:58:19", 
+        "latitude": 2.88187025623, 
+        "type": 1, 
+        "id": 7350
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.2516199735, 
+          2.94444719113
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.2516199735, 
+        "epoch_ms": 1541858299000, 
+        "time": "2018-11-10 13:58:19", 
+        "latitude": 2.94444719113, 
+        "type": 1, 
+        "id": 7351
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.1421726803, 
+          3.45823503216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.1421726803, 
+        "epoch_ms": 1541858307000, 
+        "time": "2018-11-10 13:58:27", 
+        "latitude": 3.45823503216, 
+        "type": 1, 
+        "id": 7355
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.590788698, 
+          3.12223857904
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.590788698, 
+        "epoch_ms": 1541858307000, 
+        "time": "2018-11-10 13:58:27", 
+        "latitude": 3.12223857904, 
+        "type": 0, 
+        "id": 7356
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3931241684, 
+          3.84788247663
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3931241684, 
+        "epoch_ms": 1541858308000, 
+        "time": "2018-11-10 13:58:28", 
+        "latitude": 3.84788247663, 
+        "type": 1, 
+        "id": 7362
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.267102734, 
+          3.44256597591
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.267102734, 
+        "epoch_ms": 1541858311000, 
+        "time": "2018-11-10 13:58:31", 
+        "latitude": 3.44256597591, 
+        "type": 1, 
+        "id": 7363
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.616072802, 
+          3.04321664622
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.616072802, 
+        "epoch_ms": 1541858315000, 
+        "time": "2018-11-10 13:58:35", 
+        "latitude": 3.04321664622, 
+        "type": 0, 
+        "id": 7365
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5806117337, 
+          3.88884231425
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5806117337, 
+        "epoch_ms": 1541858317000, 
+        "time": "2018-11-10 13:58:37", 
+        "latitude": 3.88884231425, 
+        "type": 1, 
+        "id": 7366
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4719500468, 
+          3.87926584504
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4719500468, 
+        "epoch_ms": 1541858317000, 
+        "time": "2018-11-10 13:58:37", 
+        "latitude": 3.87926584504, 
+        "type": 1, 
+        "id": 7367
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6906878573, 
+          3.13133909558
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6906878573, 
+        "epoch_ms": 1541858317000, 
+        "time": "2018-11-10 13:58:37", 
+        "latitude": 3.13133909558, 
+        "type": 1, 
+        "id": 7368
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6261744095, 
+          3.98438841594
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6261744095, 
+        "epoch_ms": 1541858319000, 
+        "time": "2018-11-10 13:58:39", 
+        "latitude": 3.98438841594, 
+        "type": 1, 
+        "id": 7371
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3793218388, 
+          2.87923688665
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3793218388, 
+        "epoch_ms": 1541858319000, 
+        "time": "2018-11-10 13:58:39", 
+        "latitude": 2.87923688665, 
+        "type": 1, 
+        "id": 7372
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.028215746, 
+          3.54308343314
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.028215746, 
+        "epoch_ms": 1541858328000, 
+        "time": "2018-11-10 13:58:48", 
+        "latitude": 3.54308343314, 
+        "type": 1, 
+        "id": 7378
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.2634604043, 
+          3.33596806456
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.2634604043, 
+        "epoch_ms": 1541858329000, 
+        "time": "2018-11-10 13:58:49", 
+        "latitude": 3.33596806456, 
+        "type": 1, 
+        "id": 7379
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4716450972, 
+          3.75748023523
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4716450972, 
+        "epoch_ms": 1541858333000, 
+        "time": "2018-11-10 13:58:53", 
+        "latitude": 3.75748023523, 
+        "type": 0, 
+        "id": 7383
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.48800879, 
+          3.60342484732
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.48800879, 
+        "epoch_ms": 1541858334000, 
+        "time": "2018-11-10 13:58:54", 
+        "latitude": 3.60342484732, 
+        "type": 0, 
+        "id": 7384
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3261887265, 
+          3.58901507428
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3261887265, 
+        "epoch_ms": 1541858334000, 
+        "time": "2018-11-10 13:58:54", 
+        "latitude": 3.58901507428, 
+        "type": 1, 
+        "id": 7385
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.2675157275, 
+          3.62119586945
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.2675157275, 
+        "epoch_ms": 1541858334000, 
+        "time": "2018-11-10 13:58:54", 
+        "latitude": 3.62119586945, 
+        "type": 1, 
+        "id": 7387
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.604514962, 
+          4.03331094634
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.604514962, 
+        "epoch_ms": 1541858335000, 
+        "time": "2018-11-10 13:58:55", 
+        "latitude": 4.03331094634, 
+        "type": 1, 
+        "id": 7388
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4913276986, 
+          2.91873314465
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4913276986, 
+        "epoch_ms": 1541858335000, 
+        "time": "2018-11-10 13:58:55", 
+        "latitude": 2.91873314465, 
+        "type": 1, 
+        "id": 7389
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6245835826, 
+          4.03009430686
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6245835826, 
+        "epoch_ms": 1541858335000, 
+        "time": "2018-11-10 13:58:55", 
+        "latitude": 4.03009430686, 
+        "type": 1, 
+        "id": 7390
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3871440928, 
+          3.90841010038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3871440928, 
+        "epoch_ms": 1541858336000, 
+        "time": "2018-11-10 13:58:56", 
+        "latitude": 3.90841010038, 
+        "type": 1, 
+        "id": 7391
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.7240223338, 
+          2.96086657529
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.7240223338, 
+        "epoch_ms": 1541858336000, 
+        "time": "2018-11-10 13:58:56", 
+        "latitude": 2.96086657529, 
+        "type": 1, 
+        "id": 7392
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5899416481, 
+          2.91353908554
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5899416481, 
+        "epoch_ms": 1541858336000, 
+        "time": "2018-11-10 13:58:56", 
+        "latitude": 2.91353908554, 
+        "type": 1, 
+        "id": 7393
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5908821364, 
+          3.13073438595
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5908821364, 
+        "epoch_ms": 1541858341000, 
+        "time": "2018-11-10 13:59:01", 
+        "latitude": 3.13073438595, 
+        "type": 1, 
+        "id": 7395
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3811687479, 
+          3.92596977058
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3811687479, 
+        "epoch_ms": 1541858343000, 
+        "time": "2018-11-10 13:59:03", 
+        "latitude": 3.92596977058, 
+        "type": 1, 
+        "id": 7396
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3611551746, 
+          3.58462614905
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3611551746, 
+        "epoch_ms": 1541858345000, 
+        "time": "2018-11-10 13:59:05", 
+        "latitude": 3.58462614905, 
+        "type": 1, 
+        "id": 7399
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          99.1847762636, 
+          3.35367047636
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 99.1847762636, 
+        "epoch_ms": 1541858345000, 
+        "time": "2018-11-10 13:59:05", 
+        "latitude": 3.35367047636, 
+        "type": 1, 
+        "id": 7401
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6655515546, 
+          3.13418104592
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6655515546, 
+        "epoch_ms": 1541858345000, 
+        "time": "2018-11-10 13:59:05", 
+        "latitude": 3.13418104592, 
+        "type": 1, 
+        "id": 7402
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4654938392, 
+          3.10749410999
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4654938392, 
+        "epoch_ms": 1541858345000, 
+        "time": "2018-11-10 13:59:05", 
+        "latitude": 3.10749410999, 
+        "type": 1, 
+        "id": 7403
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4948462599, 
+          3.67961009608
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4948462599, 
+        "epoch_ms": 1541858346000, 
+        "time": "2018-11-10 13:59:06", 
+        "latitude": 3.67961009608, 
+        "type": 1, 
+        "id": 7404
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.0771880073, 
+          3.48530742904
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.0771880073, 
+        "epoch_ms": 1541858348000, 
+        "time": "2018-11-10 13:59:08", 
+        "latitude": 3.48530742904, 
+        "type": 1, 
+        "id": 7405
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5645634831, 
+          3.13929057599
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5645634831, 
+        "epoch_ms": 1541858350000, 
+        "time": "2018-11-10 13:59:10", 
+        "latitude": 3.13929057599, 
+        "type": 0, 
+        "id": 7406
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.064472689, 
+          3.4859175757
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.064472689, 
+        "epoch_ms": 1541858351000, 
+        "time": "2018-11-10 13:59:11", 
+        "latitude": 3.4859175757, 
+        "type": 1, 
+        "id": 7409
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5110984072, 
+          2.92384350629
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5110984072, 
+        "epoch_ms": 1541858351000, 
+        "time": "2018-11-10 13:59:11", 
+        "latitude": 2.92384350629, 
+        "type": 1, 
+        "id": 7410
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.6657855244, 
+          3.16579872542
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.6657855244, 
+        "epoch_ms": 1541858355000, 
+        "time": "2018-11-10 13:59:15", 
+        "latitude": 3.16579872542, 
+        "type": 1, 
+        "id": 7414
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.0826295783, 
+          3.6376970568
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.0826295783, 
+        "epoch_ms": 1541858355000, 
+        "time": "2018-11-10 13:59:15", 
+        "latitude": 3.6376970568, 
+        "type": 1, 
+        "id": 7415
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.8263952624, 
+          2.99633808185
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.8263952624, 
+        "epoch_ms": 1541858357000, 
+        "time": "2018-11-10 13:59:17", 
+        "latitude": 2.99633808185, 
+        "type": 1, 
+        "id": 7418
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5640889959, 
+          3.88929461077
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5640889959, 
+        "epoch_ms": 1541858357000, 
+        "time": "2018-11-10 13:59:17", 
+        "latitude": 3.88929461077, 
+        "type": 1, 
+        "id": 7419
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.522798053, 
+          2.88745319679
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.522798053, 
+        "epoch_ms": 1541858359000, 
+        "time": "2018-11-10 13:59:19", 
+        "latitude": 2.88745319679, 
+        "type": 1, 
+        "id": 7421
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4818373487, 
+          2.90179838311
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4818373487, 
+        "epoch_ms": 1541858359000, 
+        "time": "2018-11-10 13:59:19", 
+        "latitude": 2.90179838311, 
+        "type": 1, 
+        "id": 7422
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5572592544, 
+          3.88986478123
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5572592544, 
+        "epoch_ms": 1541858360000, 
+        "time": "2018-11-10 13:59:20", 
+        "latitude": 3.88986478123, 
+        "type": 1, 
+        "id": 7423
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5827684275, 
+          3.15732614136
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5827684275, 
+        "epoch_ms": 1541858367000, 
+        "time": "2018-11-10 13:59:27", 
+        "latitude": 3.15732614136, 
+        "type": 0, 
+        "id": 7428
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.9518724925, 
+          3.53562779557
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.9518724925, 
+        "epoch_ms": 1541858371000, 
+        "time": "2018-11-10 13:59:31", 
+        "latitude": 3.53562779557, 
+        "type": 0, 
+        "id": 7435
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.0618565974, 
+          3.47819569455
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.0618565974, 
+        "epoch_ms": 1541858373000, 
+        "time": "2018-11-10 13:59:33", 
+        "latitude": 3.47819569455, 
+        "type": 1, 
+        "id": 7436
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5162129372, 
+          3.87727901848
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5162129372, 
+        "epoch_ms": 1541858385000, 
+        "time": "2018-11-10 13:59:45", 
+        "latitude": 3.87727901848, 
+        "type": 1, 
+        "id": 7443
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.4772810398, 
+          3.66316478606
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.4772810398, 
+        "epoch_ms": 1541858385000, 
+        "time": "2018-11-10 13:59:45", 
+        "latitude": 3.66316478606, 
+        "type": 1, 
+        "id": 7444
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.3846976503, 
+          2.94309855843
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.3846976503, 
+        "epoch_ms": 1541858385000, 
+        "time": "2018-11-10 13:59:45", 
+        "latitude": 2.94309855843, 
+        "type": 1, 
+        "id": 7445
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5483747641, 
+          3.87131536573
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5483747641, 
+        "epoch_ms": 1541858385000, 
+        "time": "2018-11-10 13:59:45", 
+        "latitude": 3.87131536573, 
+        "type": 1, 
+        "id": 7446
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5517958767, 
+          3.13038108336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5517958767, 
+        "epoch_ms": 1541858385000, 
+        "time": "2018-11-10 13:59:45", 
+        "latitude": 3.13038108336, 
+        "type": 1, 
+        "id": 7447
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.492242542, 
+          2.93614249497
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.492242542, 
+        "epoch_ms": 1541858385000, 
+        "time": "2018-11-10 13:59:45", 
+        "latitude": 2.93614249497, 
+        "type": 1, 
+        "id": 7448
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5190433016, 
+          3.82394110106
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5190433016, 
+        "epoch_ms": 1541858397000, 
+        "time": "2018-11-10 13:59:57", 
+        "latitude": 3.82394110106, 
+        "type": 1, 
+        "id": 7457
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.5443198761, 
+          3.82505519361
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.5443198761, 
+        "epoch_ms": 1541858397000, 
+        "time": "2018-11-10 13:59:57", 
+        "latitude": 3.82505519361, 
+        "type": 1, 
+        "id": 7458
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          98.591081957, 
+          3.3942593954
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "longitude": 98.591081957, 
+        "epoch_ms": 1541858398000, 
+        "time": "2018-11-10 13:59:58", 
+        "latitude": 3.3942593954, 
+        "type": 1, 
+        "id": 7459
+      }
+    }
+  ]
+}

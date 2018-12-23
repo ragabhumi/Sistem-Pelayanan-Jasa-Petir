@@ -1,0 +1,15 @@
+.leaflet-grid-label .gridlabel-vert {
+    margin-left: 8px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+.leaflet-grid-label .gridlabel-vert{
+    padding-left:2px;
+    text-shadow: -2px 0 #FFFFFF, 0 2px #FFFFFF, 2px 0 #FFFFFF, 0 -2px #FFFFFF;
+}
+
+.leaflet-grid-label .gridlabel-horiz {
+    padding-top:100px;padding-left:6px;
+    text-shadow: -2px 0 #FFFFFF, 0 2px #FFFFFF, 2px 0 #FFFFFF, 0 -2px #FFFFFF;
+}

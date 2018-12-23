@@ -1,0 +1,1 @@
+C:\Python27\python.exe konversi.py 20181110 98.53451 3.834339 19:00 21:00
