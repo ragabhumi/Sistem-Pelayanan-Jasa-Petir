@@ -1,0 +1,1 @@
+wscript.exe D:/Ngajar/Konsultasi/Kantor/pelayanan/master.vbs D:/Ngajar/Konsultasi/Kantor/pelayanan/proses.bat %*
